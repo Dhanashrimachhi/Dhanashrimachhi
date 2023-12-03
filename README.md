@@ -3,7 +3,7 @@
 
 
 ### Hi there, I am Dhanashri Machhi 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
+[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/dhanashrimachhi)
 [![Gmail Badge](https://img.shields.io/badge/-dhanashrimachhi6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhanashrimachhi6@gmail.com)](mailto:dhanashrimachhi6@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio]()
