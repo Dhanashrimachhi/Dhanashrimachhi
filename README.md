@@ -7,6 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dhanashrimachhi6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhanashrimachhi6@gmail.com)](mailto:dhanashrimachhi6@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://dhanashrimachhi.github.io/)
+- 📫 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/dhanashrimachhi)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 
@@ -24,12 +25,18 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
 
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=FFFFFF)
+![VsCode](https://img.shields.io/badge/-VsCode-000000?style=flat&logo=vscode&logoColor=FFFFFF)
+
 
 
 <div align="center">
