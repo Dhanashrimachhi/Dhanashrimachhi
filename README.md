@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-dhanashrimachhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanashrimachhi/)](https://www.linkedin.com/in/dhanashrimachhi)
 [![Gmail Badge](https://img.shields.io/badge/-dhanashrimachhi6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhanashrimachhi6@gmail.com)](mailto:dhanashrimachhi6@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio]()
+- 🎯 Portfolio website: [Portfolio](https://dhanashrimachhi.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 
