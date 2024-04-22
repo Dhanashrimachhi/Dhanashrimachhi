@@ -4,8 +4,8 @@
 
 ### Hi there, I am Dhanashri Machhi 👋
 [![Linkedin Badge](https://img.shields.io/badge/-DhanashriMachhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanashrimachhi/)](https://www.linkedin.com/in/dhanashrimachhi)
-[![Gmail Badge](https://img.shields.io/badge/-dhanashrimachhi6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhanashrimachhi6@gmail.com)](mailto:dhanashrimachhi6@gmail.com) 
 [![Behance Badge](https://img.shields.io/badge/-DhanashriMachhi-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/dhanashrimac/)](https://www.behance.net/dhanashrimac)
+[![Gmail Badge](https://img.shields.io/badge/-dhanashrimachhi6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhanashrimachhi6@gmail.com)](mailto:dhanashrimachhi6@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://dhanashrimachhi.github.io/)
 - 📫 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/dhanashrimachhi)
